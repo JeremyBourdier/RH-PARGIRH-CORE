@@ -1,0 +1,5 @@
+X,Y,grdc_no,river,station,area,altitude,lat_org,long_org,lat_pp,long_pp,dist_km,area_calc,quality,type,comment,source
+-71.1321,19.3821005,4382100,RIO YAQUE DEL NORTE,PALO VERDE,6718,11,19.77,-71.55,19.76417,-71.5625,1.5,6713.3,High,Automatic,Area difference <= 5% and distance <= 5 km,merit
+-70.85085,18.8491505,4382200,RIO YAQUE DEL SUR,EL PUENTE,1709,300,18.68,-71.07,18.67833,-71.065,0.6,1676.7,High,Automatic,Area difference <= 5% and distance <= 5 km,merit
+-71.25,18.0875,4382300,RIO NIZAITO,VILLA NIZAO,116,422,18.02,-71.2,18.02833333,-71.19833333,0.9,126.02,Medium,Automatic,Area difference 5-10% and distance <= 5 km,merit
+-70.3271,19.1317,4382700,RIO YUNA,ELLIMON,5115,8,19.15,-69.82,19.15333,-69.81917,0.4,5141.9,High,Automatic,Area difference <= 5% and distance <= 5 km,merit
