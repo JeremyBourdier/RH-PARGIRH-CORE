@@ -1,0 +1,433 @@
+time,id,runoff_mean,flag,area,country,geo_x,geo_y,geo_z,owneroforiginaldata,river_name,station_name,timezone
+1/1/1976,4382100,37,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1976,4382200,13,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1976,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1976,4382700,67,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1976,4382100,27,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1976,4382200,11,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1976,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1976,4382700,63,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1976,4382100,23,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1976,4382200,9,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1976,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1976,4382700,145,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1976,4382100,37,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1976,4382200,9,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1976,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1976,4382700,69,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1976,4382100,32,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1976,4382200,10,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1976,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1976,4382700,62,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1976,4382100,19,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1976,4382200,11,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1976,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1976,4382700,46,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1976,4382100,9,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1976,4382200,10,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1976,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1976,4382700,45,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1976,4382100,10,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1976,4382200,12,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1976,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1976,4382700,30,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1976,4382100,25,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1976,4382200,18,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1976,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1976,4382700,48,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1976,4382100,77,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1976,4382200,27,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1976,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1976,4382700,124,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1976,4382100,42,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1976,4382200,13,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1976,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1976,4382700,57,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1976,4382100,13,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1976,4382200,10,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1976,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1976,4382700,61,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1977,4382100,10,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1977,4382200,5,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1977,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1977,4382700,27,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1977,4382100,11,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1977,4382200,5,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1977,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1977,4382700,18,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1977,4382100,0,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1977,4382200,4,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1977,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1977,4382700,7,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1977,4382100,27,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1977,4382200,5,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1977,4382300,0,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1977,4382700,70,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1977,4382100,75,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1977,4382200,10,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1977,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1977,4382700,105,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1977,4382100,16,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1977,4382200,6,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1977,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1977,4382700,39,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1977,4382100,2,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1977,4382200,5,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1977,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1977,4382700,26,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1977,4382100,4,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1977,4382200,7,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1977,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1977,4382700,69,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1977,4382100,21,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1977,4382200,18,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1977,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1977,4382700,83,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1977,4382100,51,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1977,4382200,21,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1977,4382300,8,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1977,4382700,39,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1977,4382100,105,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1977,4382200,27,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1977,4382300,7,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1977,4382700,179,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1977,4382100,30,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1977,4382200,15,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1977,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1977,4382700,108,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1978,4382100,59,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1978,4382200,11,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1978,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1978,4382700,145,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1978,4382100,30,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1978,4382200,6,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1978,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1978,4382700,40,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1978,4382100,31,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1978,4382200,5,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1978,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1978,4382700,45,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1978,4382100,132,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1978,4382200,17,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1978,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1978,4382700,139,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1978,4382100,143,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1978,4382200,22,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1978,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1978,4382700,106,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1978,4382100,108,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1978,4382200,27,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1978,4382300,7,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1978,4382700,57,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1978,4382100,72,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1978,4382200,30,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1978,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1978,4382700,68,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1978,4382100,39,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1978,4382200,25,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1978,4382300,7,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1978,4382700,75,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1978,4382100,55,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1978,4382200,33,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1978,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1978,4382700,38,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1978,4382100,106,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1978,4382200,42,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1978,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1978,4382700,40,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1978,4382100,55,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1978,4382200,21,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1978,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1978,4382700,44,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1978,4382100,15,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1978,4382200,11,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1978,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1978,4382700,47,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1979,4382100,13,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1979,4382200,7,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1979,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1979,4382700,35,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1979,4382100,9,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1979,4382200,6,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1979,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1979,4382700,27,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1979,4382100,57,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1979,4382200,6,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1979,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1979,4382700,66,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1979,4382100,98,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1979,4382200,9,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1979,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1979,4382700,161,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1979,4382100,269,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1979,4382200,23,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1979,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1979,4382700,327,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1979,4382100,270,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1979,4382200,40,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1979,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1979,4382700,280,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1979,4382100,97,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1979,4382200,21,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1979,4382300,12,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1979,4382700,216,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1979,4382100,71,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1979,4382200,43,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1979,4382300,16,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1979,4382700,130,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1979,4382100,286,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1979,4382200,116,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1979,4382300,60,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1979,4382700,308,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1979,4382100,106,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1979,4382200,66,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1979,4382300,,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1979,4382700,127,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1979,4382100,194,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1979,4382200,60,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1979,4382300,,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1979,4382700,228,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1979,4382100,67,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1979,4382200,66,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1979,4382300,6,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1979,4382700,69,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1980,4382200,62,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1980,4382300,5,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1980,4382700,99,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1980,4382200,52,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1980,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1980,4382700,57,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1980,4382200,9,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1980,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1980,4382700,43,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1980,4382200,13,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1980,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1980,4382700,54,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1980,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1980,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1980,4382700,155,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1980,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1980,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1980,4382700,88,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1980,4382200,47,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1980,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1980,4382700,61,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1980,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1980,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1980,4382700,,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1980,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1980,4382300,5,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1980,4382700,,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1980,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1980,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1980,4382700,,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1980,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1980,4382300,,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1980,4382700,,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1980,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1980,4382200,24,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1980,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1980,4382700,,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1981,4382200,25,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1981,4382300,,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1981,4382700,55,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1981,4382200,23,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1981,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1981,4382700,126,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1981,4382200,22,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1981,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1981,4382700,81,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1981,4382200,13,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1981,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1981,4382700,158,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1981,4382200,30,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1981,4382300,0,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1981,4382700,377,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1981,4382200,66,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1981,4382300,9,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1981,4382700,,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1981,4382200,79,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1981,4382300,5,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1981,4382700,97,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1981,4382200,28,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1981,4382300,,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1981,4382700,222,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1981,4382200,24,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1981,4382300,0,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1981,4382700,94,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1981,4382200,22,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1981,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1981,4382700,139,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1981,4382200,27,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1981,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1981,4382700,248,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1981,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1981,4382200,25,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1981,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1981,4382700,85,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1982,4382200,25,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1982,4382700,118,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1982,4382200,27,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1982,4382700,212,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1982,4382200,38,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1982,4382700,58,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1982,4382200,31,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1982,4382700,33,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1982,4382200,30,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1982,4382700,196,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1982,4382200,32,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1982,4382700,96,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1982,4382200,23,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1982,4382700,58,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1982,4382200,21,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1982,4382700,55,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1982,4382200,23,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1982,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1982,4382700,59,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1982,4382200,24,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1982,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1982,4382700,35,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1982,4382200,25,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1982,4382700,66,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1982,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1982,4382200,20,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1982,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1982,4382700,154,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1983,4382200,23,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1983,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1983,4382700,109,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1983,4382200,26,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1983,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1983,4382700,40,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1983,4382200,22,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1983,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1983,4382700,31,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1983,4382200,23,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1983,4382300,3,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1983,4382700,48,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1983,4382200,10,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1983,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1983,4382700,233,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1983,4382200,17,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1983,4382300,8,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1983,4382700,122,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1983,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1983,4382300,5,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1983,4382700,70,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1983,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1983,4382300,4,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1983,4382700,80,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1983,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1983,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1983,4382700,56,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1983,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1983,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1983,4382700,48,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1983,4382200,14,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1983,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1983,4382700,68,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1983,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1983,4382200,16,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1983,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1983,4382700,43,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+1/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+1/1/1984,4382200,20,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+1/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+1/1/1984,4382700,35,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+2/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+2/1/1984,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+2/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+2/1/1984,4382700,132,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+3/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+3/1/1984,4382200,16,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+3/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+3/1/1984,4382700,38,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+4/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+4/1/1984,4382200,11,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+4/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+4/1/1984,4382700,36,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+5/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+5/1/1984,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+5/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+5/1/1984,4382700,50,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+6/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+6/1/1984,4382200,1,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+6/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+6/1/1984,4382700,166,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+7/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+7/1/1984,4382200,11,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+7/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+7/1/1984,4382700,81,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+8/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+8/1/1984,4382200,16,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+8/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+8/1/1984,4382700,73,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+9/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+9/1/1984,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+9/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+9/1/1984,4382700,76,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+10/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+10/1/1984,4382200,,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+10/1/1984,4382300,2,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+10/1/1984,4382700,160,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+11/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+11/1/1984,4382200,22,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+11/1/1984,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+11/1/1984,4382700,131,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
+12/1/1984,4382100,,,6718,DO,-71.55,19.77,11,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL NORTE,PALO VERDE,4
+12/1/1984,4382200,24,,1709,DO,-71.07,18.68,300,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YAQUE DEL SUR,EL PUENTE,4
+12/1/1984,4382300,1,,116,DO,-71.2,18.02,422,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO NIZAITO,VILLA NIZAO,4
+12/1/1984,4382700,65,,5115,DO,-69.82,19.15,8,Initial dataset collected in the framework of the First GARP Global Experiment (FGGE),RIO YUNA,ELLIMON,4
