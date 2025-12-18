@@ -6,6 +6,7 @@ import pandas as pd
 class DashboardUI:
     def render_header(self):
         # Encabezado limpio
+        # Lo deje asi porque steamlit me da problemas con un espacio que me genera cuando quiero poner sub
         st.title("RH-PARGIRH: Inteligencia Hídrica")
         st.markdown("**Proyecto de Resiliencia para las Cuencas Yaque del Norte y Ozama (INDRHI / BM)**")
         st.markdown("---")

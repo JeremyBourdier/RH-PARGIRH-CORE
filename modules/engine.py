@@ -40,6 +40,7 @@ class HydrologyEngine:
             
         return {
             "promedio": promedio_actual,
+            "caudal_promedio": promedio_actual,
             "variacion": variacion,
             "inercia": inercia,
             "meses_criticos": meses_criticos,

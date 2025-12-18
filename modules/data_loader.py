@@ -4,7 +4,7 @@ import os
 
 class DataLoader:
     def __init__(self):
-        # Define las rutas posibles
+        # rutas
         self.relative_path = os.path.join("data", "gold", "app_data_70years.csv")
         self.absolute_path = r"C:\Users\bourd\source\repos\RH-PARGIRH-CORE\data\gold\app_data_70years.csv"
 

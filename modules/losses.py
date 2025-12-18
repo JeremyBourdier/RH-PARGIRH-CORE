@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-# --- 1. GENERACIÓN DE DATOS SIMULADOS (Para que funcione sin CSVs) ---
+# --- 1. GENERACIÓN DE DATOS SIMULADOS (Para que funcione sin CSVs jijijij) ---
 def get_dummy_data():
     dates = pd.date_range(start='2020-01-01', periods=60, freq='ME')
     np.random.seed(42)
