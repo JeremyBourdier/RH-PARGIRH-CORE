@@ -89,6 +89,7 @@ RH-PARGIRH-CORE/
 │   ├── governance.py       # Módulo de Gobernabilidad (NUEVO)
 │   └── sidebar.py          # Configuración de usuario
 └── assets/                 # Imágenes y logos
+```
 
 ## 📸 Capturas de Pantalla
 
@@ -128,5 +129,6 @@ Científicos de Datos: Wandrys Ferrand Guzman
 Desarrolladores: Jeremy Bourdier Estrella, Wandrys Ferrand Guzman
 
 Scrum Master, Sopoerte auxiliar: Johán Manuel Vicente Berroa
+
 
 Documentador Técnico, investigador: Randolf Valdimir Martinez Beltre
