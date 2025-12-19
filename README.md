@@ -11,6 +11,8 @@
 
 > **Proyecto Agricultura Resiliente y Gestión Integrada de Recursos Hídricos**
 > *Transformando datos climáticos en decisiones justas y transparentes.*
+ 
+![Demo del Sistema](https://github.com/user-attachments/assets/eb729216-6077-4b22-8bc7-8b37e3a35260)
 
 🔗 VER DEMO EN VIVO AHORA
 
@@ -78,18 +80,39 @@ Sigue estos pasos para ejecutar el sistema en tu entorno local:
 ## 📂 Estructura del Proyecto
 
 ```text
+## 📂 Estructura del Proyecto
+
+```text
 RH-PARGIRH-CORE/
 ├── app.py                  # Orquestador Principal (Main)
 ├── data/                   # Fuente de datos (CSVs)
+├── notebook/               # 🧠 Laboratorio de IA y Ciencia de Datos
+│   └── 1_data_pipeline_and_modeling.ipynb  # Pipeline Híbrido: Entrenamiento IA (Random Forest) + Estadística Clásica de Cuenca (70 años de historia hidrológica)
 ├── modules/                # Arquitectura Modular
 │   ├── data_loader.py      # Ingesta de datos
 │   ├── engine.py           # Motor de cálculo hidrológico
 │   ├── dashboard.py        # Visualización (Plotly/Mapas)
-│   ├── economics.py        # Módulo Económico (NUEVO)
-│   ├── governance.py       # Módulo de Gobernabilidad (NUEVO)
+│   ├── economics.py        # Módulo Económico (Cálculo de pérdidas FAO-33)
+│   ├── governance.py       # Módulo de Gobernabilidad (Reglas del MOPE)
 │   └── sidebar.py          # Configuración de usuario
 └── assets/                 # Imágenes y logos
 ```
+## ⚙️ Arquitectura del Flujo de Datos
+
+```mermaid
+graph TD
+    A[Data Loader] -->|Carga de CSVs| B(Hydrology Engine)
+    B -->|Simulación Climática| C{Random Forest Model}
+    C -->|Predicción de Caudales| D[Dashboard UI]
+    D -->|Visualización| E[Monitor de Riesgos]
+    D -->|Cálculo FAO-33| F[Módulo Económico]
+    D -->|Reglas MOPE| G[Gobernabilidad & Alertas]
+    G -->|Auditoría| H[(Audit Log Inmutable)]
+    
+    style C fill:#f9f,stroke:#333,stroke-width:2px
+    style H fill:#bbf,stroke:#333,stroke-width:2px
+```
+---
 
 ## 📸 Capturas de Pantalla
 
@@ -119,7 +142,7 @@ RH-PARGIRH-CORE/
 
 ![Chatbot](assets/chatbot.png)
 
-🤝 Créditos
+## 🤝 Créditos
 Desarrollado por el equipo RD15 - SIC para el Samsung Innovation Campus Hackathon 2025.
 
 Líder de Proyecto: Jeremy Bourdier Estrella
@@ -130,5 +153,9 @@ Desarrolladores: Jeremy Bourdier Estrella, Wandrys Ferrand Guzman
 
 Scrum Master, Sopoerte auxiliar: Johán Manuel Vicente Berroa
 
-
 Documentador Técnico, investigador: Randolf Valdimir Martinez Beltre
+
+
+
+
+
