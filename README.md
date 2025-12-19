@@ -14,13 +14,14 @@
  
 ![Demo del Sistema](https://github.com/user-attachments/assets/eb729216-6077-4b22-8bc7-8b37e3a35260)
 
-<p align="center">
+<div align="center">
   <br>
   <a href="https://rh-pargirh-core-vsntrgkm6pb2ifsrcxqdk3.streamlit.app/">
-    <b>🔴 HAGA CLIC AQUÍ PARA ACCEDER AL SISTEMA EN VIVO</b>
+    <img src="https://img.shields.io/badge/🚀_ABRIR_SISTEMA_EN_VIVO-HAGA_CLIC_AQUÍ-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010" height="70" alt="Ver Demo en Vivo">
   </a>
   <br>
-</p>
+  <br>
+</div>
 
 ## 📖 Descripción General
 
@@ -160,6 +161,7 @@ Desarrolladores: Jeremy Bourdier Estrella, Wandrys Ferrand Guzman
 Scrum Master, Sopoerte auxiliar: Johán Manuel Vicente Berroa
 
 Documentador Técnico, investigador: Randolf Valdimir Martinez Beltre
+
 
 
 
