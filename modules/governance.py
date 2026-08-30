@@ -1,6 +1,15 @@
 import streamlit as st
 import pandas as pd
 import datetime
+import hmac
+import os
+
+
+def authenticate_operator(password, expected_password):
+    """Return whether the supplied password authorizes operator actions."""
+    if not expected_password or not password:
+        return False
+    return hmac.compare_digest(password, expected_password)
 
 class GovernanceModule:
     def __init__(self):
@@ -91,19 +100,29 @@ class GovernanceModule:
 
             # Botón de Acción (Simulación de Firma Digital) solo lo puse como ejemplo chicos 
             st.divider()
-            autoridad = st.text_input("Firma del Funcionario Responsable:", value="Operador INDRHI - Turno A")
-            
-            if st.button("🗳️ EJECUTAR DECISIÓN Y REGISTRAR"):
-                # Guardamos en el "Blockchain" (Session State)
-                nuevo_registro = {
-                    "timestamp": datetime.datetime.now().strftime("%H:%M:%S"),
-                    "autoridad": autoridad,
-                    "accion": escenario['accion'],
-                    "causa": f"Caudal a {kpis['caudal_promedio']:.1f} m³/s ({escenario['nivel']})"
-                }
-                st.session_state['audit_log'].insert(0, nuevo_registro) # El más reciente primero
-                st.success("Decisión registrada en el Libro Oficial Digital.")
-                st.balloons()
+            expected_password = os.environ.get("PARGIRH_OPERATOR_PASSWORD")
+            if not expected_password:
+                st.error("Las acciones operativas están deshabilitadas: falta configurar la credencial del operador.")
+            else:
+                operator_password = st.text_input("Contraseña del operador:", type="password")
+                if authenticate_operator(operator_password, expected_password):
+                    st.session_state["operator_authorized"] = True
+                else:
+                    st.session_state["operator_authorized"] = False
+
+                autoridad = st.text_input("Firma del Funcionario Responsable:", value="Operador INDRHI - Turno A")
+
+                if st.button("🗳️ EJECUTAR DECISIÓN Y REGISTRAR", disabled=not st.session_state["operator_authorized"]) and st.session_state["operator_authorized"]:
+                    # Guardamos en el "Blockchain" (Session State)
+                    nuevo_registro = {
+                        "timestamp": datetime.datetime.now().strftime("%H:%M:%S"),
+                        "autoridad": autoridad,
+                        "accion": escenario['accion'],
+                        "causa": f"Caudal a {kpis['caudal_promedio']:.1f} m³/s ({escenario['nivel']})"
+                    }
+                    st.session_state['audit_log'].insert(0, nuevo_registro) # El más reciente primero
+                    st.success("Decisión registrada en el Libro Oficial Digital.")
+                    st.balloons()
 
         # 2. MATRIZ DE CONFLICTO 
         with col_right:
